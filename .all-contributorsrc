@@ -941,7 +941,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/85586890?v=4",
       "profile": "https://github.com/0x7274",
       "contributions": [
-        "bug"
+        "bug",
+        "ideas",
+        "doc"
       ]
     },
     {
@@ -949,6 +951,15 @@
       "name": "4FunAndProfit",
       "avatar_url": "https://avatars.githubusercontent.com/u/174417079?v=4",
       "profile": "https://github.com/4FunAndProfit",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "lidorelias3",
+      "name": "lidorelias3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41958137?v=4",
+      "profile": "https://github.com/lidorelias3",
       "contributions": [
         "ideas"
       ]
